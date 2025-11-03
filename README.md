@@ -1,2 +1,2 @@
-<img width="2209" height="667" alt="pngimg com - amazon_PNG6" src="https://github.com/user-attachments/assets/6ccfa9cb-bad2-4bc9-98aa-aee21e1e64e7" />
+<img width="1024" height="373" alt="Amazon-Logo-White-PNG-Image" src="https://github.com/user-attachments/assets/ca5a2a5a-f1cc-461a-a53d-85d3230bce2a" />
 
