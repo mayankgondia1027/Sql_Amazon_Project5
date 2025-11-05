@@ -697,28 +697,3 @@ p_product_id INT,
 p_quantity INT
 select * from inventory
 where product_id=1;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
